@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+body{
+    background-color: black;
+}
+.container{
+    border: 3px solid rgb(106, 153, 216);
+    border-radius: 20px;
+    height: auto;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    background-color: white;
+    margin-top: 20%;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fetchText{
+    font-size: 1rem;
+    margin-top: 15px;
+}
+.btn{
+    margin-top: 15px;
+    padding: 5px 10px;
+    background-color: yellow;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(183, 183, 6);
+}
